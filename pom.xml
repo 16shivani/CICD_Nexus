@@ -11,7 +11,7 @@
   <snapshotRepository>
   <id>Jenkins_Nexus</id>
   <name>Jenkins_Nexus</name>
-  <url>hhttp://localhost:8081/repository/Jenkins_Nexus/</url>
+  <url>http://localhost:8081/repository/Jenkins_Nexus/</url>
     </snapshotRepository>
 	</distributionManagement>
  
