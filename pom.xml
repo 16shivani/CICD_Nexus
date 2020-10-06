@@ -3,7 +3,6 @@
   <groupId>Devops</groupId>
   <artifactId>brm_mon</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-</project>
 <properties>
     <maven.compiler.source>1.6</maven.compiler.source>
     <maven.compiler.target>1.6</maven.compiler.target>
